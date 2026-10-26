@@ -1,0 +1,26 @@
+{
+  "users_input": 500,
+  "users_with_usage": 490,
+  "user_months": 2293,
+  "plan_summary": {
+    "surf": {
+      "user_months": 1573,
+      "users": 333,
+      "mean_monthly_revenue": 60.70640813731715,
+      "total_revenue": 95491.17999999988
+    },
+    "ultimate": {
+      "user_months": 720,
+      "users": 157,
+      "mean_monthly_revenue": 72.31388888888888,
+      "total_revenue": 52066.0
+    }
+  },
+  "plan_test_pvalue": 5.719435130362412e-08,
+  "region_test_pvalue": 0.5630003760570831,
+  "test_unit": "Ingreso mensual promedio por usuario",
+  "significance": 0.05,
+  "extra_data_revenue": 62466.0,
+  "base_revenue": 81860.0,
+  "total_revenue": 147557.18
+}
